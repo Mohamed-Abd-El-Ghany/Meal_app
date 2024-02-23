@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-            brightness: Brightness.dark, seedColor: Colors.deepPurple),
+            brightness: Brightness.dark, seedColor: Colors.amber),
         useMaterial3: true,
         textTheme: GoogleFonts.latoTextTheme(),
       ),
